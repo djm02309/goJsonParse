@@ -1,0 +1,22 @@
+{
+  "functions":[
+    {
+      "Argu":"string",
+      "ConstVar":3,
+      "Sym":"<",
+      "Signature":"5864ab5f"
+    },
+    {
+      "Argu":"uint8",
+      "ConstVar":2,
+      "Sym":"<",
+      "Signature":"a1258d4"
+    },
+    {
+      "Argu":"uint32",
+      "ConstVar":5,
+      "Sym":">",
+      "Signature":"a56b11f9"
+    }
+  ]
+}
